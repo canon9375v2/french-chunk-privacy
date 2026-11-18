@@ -1,3 +1,4 @@
-# French Chunk · Privacy Policy
+# French Chunk · Privacy Policy and Support
 
-The privacy policy of the French Chunk app (English + 繁體中文): https://canon9375v2.github.io/french-chunk-privacy/
+- Privacy policy (English + 繁體中文): https://canon9375v2.github.io/french-chunk-privacy/
+- Support page (contact + common questions): https://canon9375v2.github.io/french-chunk-privacy/support.html
